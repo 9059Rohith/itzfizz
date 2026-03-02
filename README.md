@@ -1,5 +1,9 @@
 # Scroll-Driven Hero Section Animation
 
+ASSINGNMENT
+
+live link:https://capable-cassata-f223ba.netlify.app/
+
 A smooth, performant scroll-driven hero section animation built with Next.js, Tailwind CSS, and GSAP.
 
 ## 🚀 Quick Start
